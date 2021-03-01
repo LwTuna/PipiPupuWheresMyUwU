@@ -1,0 +1,2484 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1379; Version 1909; 64bit' Language: 'de' Physical Memory: 16352 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Jonas/Desktop/UnityProject21/UnityWorkspace/Pokuwu
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49851
+Successfully changed project path to: C:/Users/Jonas/Desktop/UnityProject21/UnityWorkspace/Pokuwu
+C:/Users/Jonas/Desktop/UnityProject21/UnityWorkspace/Pokuwu
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 128.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Jonas/Desktop/UnityProject21/UnityWorkspace/Pokuwu/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002133 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 122.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.314 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003755 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 114.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Find all reader and writers took 108 milliseconds
+Script Module: UnityEngine.UI.dll
+Weave behaviours and messages took76 milliseconds
+Find all reader and writers took 81 milliseconds
+Script Module: UnityEngine.TestRunner.dll
+Weave behaviours and messages took28 milliseconds
+Find all reader and writers took 85 milliseconds
+Script Module: Unity.Mathematics.dll
+Weave behaviours and messages took178 milliseconds
+Find all reader and writers took 86 milliseconds
+Script Module: Unity.InputSystem.dll
+Weave behaviours and messages took195 milliseconds
+Find all reader and writers took 75 milliseconds
+Script Module: Unity.2D.Animation.Triangle.Runtime.dll
+Weave behaviours and messages took29 milliseconds
+Find all reader and writers took 80 milliseconds
+Script Module: SimpleWebTransport.dll
+Weave behaviours and messages took6 milliseconds
+Find all reader and writers took 81 milliseconds
+Script Module: Unity.Timeline.dll
+Weave behaviours and messages took38 milliseconds
+Find all reader and writers took 86 milliseconds
+Script Module: Mirror.Examples.dll
+[Projectile] NetworkBehaviourProcessor
+[Tank] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkRoomPlayerExt] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[PlayerScore] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[Reward] NetworkBehaviourProcessor
+[AddForce] NetworkBehaviourProcessor
+[Ball] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[MatchController] NetworkBehaviourProcessor
+[PhysicsCollision] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[PlayerScore] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[Reward] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[MonsterMovement] NetworkBehaviourProcessor
+[PlayerMovement] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[PlayerController] NetworkBehaviourProcessor
+[RandomColor] NetworkBehaviourProcessor
+[ShootingTankBehaviour] NetworkBehaviourProcessor
+Weave behaviours and messages took56 milliseconds
+  ProcessSitesModule Mirror.Examples.dll elapsed time:00:00:00.0119679
+Find all reader and writers took 86 milliseconds
+Script Module: Mirror.Components.dll
+[NetworkAnimator] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkLobbyPlayer] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkVisibility] Found NetworkBehaviour Mirror.NetworkVisibility
+[NetworkVisibility] Process Start
+[NetworkVisibility]   GenerateSerialization
+[NetworkVisibility]   GenerateDeSerialization
+[NetworkVisibility] Process Done
+[NetworkMatchChecker] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkOwnerChecker] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkProximityChecker] NetworkBehaviourProcessor
+[NetworkRoomPlayer] NetworkBehaviourProcessor
+[NetworkVisibility] NetworkBehaviourProcessor
+[NetworkSceneChecker] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransform] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformChild] NetworkBehaviourProcessor
+[NetworkLerpRigidbody] NetworkBehaviourProcessor
+[NetworkRigidbody] NetworkBehaviourProcessor
+[NetworkRigidbody2D] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransform] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformBase] NetworkBehaviourProcessor
+[NetworkTransformChild] NetworkBehaviourProcessor
+Weave behaviours and messages took58 milliseconds
+  ProcessSitesModule Mirror.Components.dll elapsed time:00:00:00.0019938
+Find all reader and writers took 107 milliseconds
+Script Module: Unity.TextMeshPro.dll
+Weave behaviours and messages took82 milliseconds
+Find all reader and writers took 97 milliseconds
+Script Module: Unity.2D.Animation.Runtime.dll
+Weave behaviours and messages took7 milliseconds
+Find all reader and writers took 87 milliseconds
+Script Module: Unity.2D.IK.Runtime.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 82 milliseconds
+Script Module: Unity.2D.SpriteShape.Runtime.dll
+Weave behaviours and messages took29 milliseconds
+Find all reader and writers took 81 milliseconds
+Script Module: Telepathy.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 88 milliseconds
+Script Module: Assembly-CSharp.dll
+[Character] NetworkBehaviourProcessor
+[Movement] NetworkBehaviourProcessor
+[Character] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+[Movement] NetworkBehaviourProcessor
+[PlayerMovement] NetworkBehaviourProcessor
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 83 milliseconds
+Script Module: Mirror.Authenticators.dll
+Weave behaviours and messages took29 milliseconds
+  ProcessSitesModule Mirror.Authenticators.dll elapsed time:00:00:00.0019944
+Find all reader and writers took 79 milliseconds
+Script Module: kcp2k.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 81 milliseconds
+Script Module: Unity.2D.PixelPerfect.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 86 milliseconds
+Script Module: Mirror.Examples.Cloud.GUI.dll
+Weave behaviours and messages took3 milliseconds
+Find all reader and writers took 80 milliseconds
+Script Module: Mirror.Cloud.dll
+Weave behaviours and messages took4 milliseconds
+Find all reader and writers took 83 milliseconds
+Script Module: Mirror.Examples.Cloud.Pong.dll
+[Ball] NetworkBehaviourProcessor
+[BallManager] NetworkBehaviourProcessor
+[Player] NetworkBehaviourProcessor
+Weave behaviours and messages took27 milliseconds
+  ProcessSitesModule Mirror.Examples.Cloud.Pong.dll elapsed time:00:00:00.0009975
+Find all reader and writers took 75 milliseconds
+Script Module: Unity.2D.Common.Runtime.dll
+Weave behaviours and messages took0 milliseconds
+Find all reader and writers took 83 milliseconds
+Script Module: Unity.InternalAPIEngineBridge.001.dll
+Weave behaviours and messages took0 milliseconds
+Find all reader and writers took 118 milliseconds
+Script Module: UnityEditor.TestRunner.dll
+Weave behaviours and messages took48 milliseconds
+Find all reader and writers took 108 milliseconds
+Script Module: UnityEditor.UI.dll
+Weave behaviours and messages took13 milliseconds
+Find all reader and writers took 85 milliseconds
+Script Module: PsdPlugin.dll
+Weave behaviours and messages took16 milliseconds
+Find all reader and writers took 106 milliseconds
+Script Module: ParrelSync.dll
+Weave behaviours and messages took2 milliseconds
+Find all reader and writers took 88 milliseconds
+Script Module: Mirror.CompilerSymbols.dll
+Weave behaviours and messages took0 milliseconds
+Find all reader and writers took 122 milliseconds
+Script Module: Unity.InternalAPIEditorBridge.001.dll
+Weave behaviours and messages took2 milliseconds
+Mono: successfully reloaded assembly
+- Completed reload, in  9.481 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2361 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.1 MB.
+System memory in use after: 119.2 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2813.
+Total: 4.282000 ms (FindLiveObjects: 0.304000 ms CreateObjectMapping: 0.153700 ms MarkObjects: 3.668000 ms  DeleteObjects: 0.154200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_31.asset
+  artifactKey: Guid(7590ed8706f6c824fae4ee30a0a4ccb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_31.asset using Guid(7590ed8706f6c824fae4ee30a0a4ccb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d754a7e59b4121c1eb3ca962d9e3462') in 0.217505 seconds
+  Import took 0.224139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_16.asset
+  artifactKey: Guid(bf77451a6269c7d4c8346c4cd0214efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_16.asset using Guid(bf77451a6269c7d4c8346c4cd0214efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a872840e44a50e93da93028de26a15') in 0.035582 seconds
+  Import took 0.040995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_19.asset
+  artifactKey: Guid(5150d0c40d7bd9a45aa607e7a464aa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_19.asset using Guid(5150d0c40d7bd9a45aa607e7a464aa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bad9de2d97cfff26a8af49db31f07b7') in 0.029388 seconds
+  Import took 0.038719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_71.asset
+  artifactKey: Guid(472d8264147850b43866ba50abd7f40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_71.asset using Guid(472d8264147850b43866ba50abd7f40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c5bb4fc366360d3f4a23038c84fe2e') in 0.027775 seconds
+  Import took 0.038037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_115.asset
+  artifactKey: Guid(2dbd0ce61ef822b4abadf858dac950a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_115.asset using Guid(2dbd0ce61ef822b4abadf858dac950a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd181a70f1e0fd492451f9dc0a7ff830') in 0.028617 seconds
+  Import took 0.034902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_99.asset
+  artifactKey: Guid(7e6719397bda4c14e8b45b6ebff00a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_99.asset using Guid(7e6719397bda4c14e8b45b6ebff00a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb12d29ddc672186ccddbf22ab62def') in 0.034884 seconds
+  Import took 0.043091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_70.asset
+  artifactKey: Guid(5dfcdb80a7228354897152605e9002c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_70.asset using Guid(5dfcdb80a7228354897152605e9002c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29cae48bfd309bb9179c7684214b5c0b') in 0.027780 seconds
+  Import took 0.034194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_40.asset
+  artifactKey: Guid(032894b226017a04c90b01c3fe843ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_40.asset using Guid(032894b226017a04c90b01c3fe843ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8f055de1742e3c66709ce8779e9404') in 0.025341 seconds
+  Import took 0.031900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_110.asset
+  artifactKey: Guid(b2b37991986407a4aa0137e1ed27cd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_110.asset using Guid(b2b37991986407a4aa0137e1ed27cd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c08a71dd3afd7a457661ec13e04fa2') in 0.039464 seconds
+  Import took 0.046110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_44.asset
+  artifactKey: Guid(77728ccbd5f4c7447848c95e21d0683e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_44.asset using Guid(77728ccbd5f4c7447848c95e21d0683e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092194360f58cab81eda33a3aaec400a') in 0.028453 seconds
+  Import took 0.036121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_73.asset
+  artifactKey: Guid(2b96a716ebc78b24c884d673bdeedba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_73.asset using Guid(2b96a716ebc78b24c884d673bdeedba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e999da15de39eb13a4a14b4f2a26e5d') in 0.027092 seconds
+  Import took 0.032781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_51.asset
+  artifactKey: Guid(ea8e2bdec13d6a4429e2708e75646712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_51.asset using Guid(ea8e2bdec13d6a4429e2708e75646712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705300445325c1b5b27fa8dc881b6ff3') in 0.029871 seconds
+  Import took 0.035853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_81.asset
+  artifactKey: Guid(df5aacb942a4f8d48b15a2b32943ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_81.asset using Guid(df5aacb942a4f8d48b15a2b32943ae4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2010a8cb504e99635d77591038834d') in 0.026491 seconds
+  Import took 0.033253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_111.asset
+  artifactKey: Guid(0b0f967edde757c489ef08e275607756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_111.asset using Guid(0b0f967edde757c489ef08e275607756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57086106bd3a8e5625b157c41c03955') in 0.029559 seconds
+  Import took 0.035857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_59.asset
+  artifactKey: Guid(415560155d89edf4290c73cb0b1e47d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_59.asset using Guid(415560155d89edf4290c73cb0b1e47d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869d9893e2dad5d287d957787e7d7066') in 0.025442 seconds
+  Import took 0.031488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_38.asset
+  artifactKey: Guid(1403241edf2ea8c43b8403b5cd0e7567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_38.asset using Guid(1403241edf2ea8c43b8403b5cd0e7567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '838768170e9d803d0e859dd71db536ea') in 0.027913 seconds
+  Import took 0.033267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_68.asset
+  artifactKey: Guid(36514baa6c0006748bafe5d04f0763e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_68.asset using Guid(36514baa6c0006748bafe5d04f0763e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8951cdbb280024a882f3f3d57f87e84') in 0.025953 seconds
+  Import took 0.032325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000909 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_50.asset
+  artifactKey: Guid(6b5996600cd97e747a33c687ce2872d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_50.asset using Guid(6b5996600cd97e747a33c687ce2872d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd5cdeb1927520b27514f183b08e2c4b') in 0.029006 seconds
+  Import took 0.035109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_11.asset
+  artifactKey: Guid(35193ac0d5392c9459395d9f62399efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_11.asset using Guid(35193ac0d5392c9459395d9f62399efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fdbd8d94e64a2592341b72a4453428f') in 0.025920 seconds
+  Import took 0.032239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_55.asset
+  artifactKey: Guid(2aae3b7cfb0450f42a33dac9b3ca0d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_55.asset using Guid(2aae3b7cfb0450f42a33dac9b3ca0d6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3575283611bd476234bfcf62759c8723') in 0.027339 seconds
+  Import took 0.033507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_76.asset
+  artifactKey: Guid(adf8ee3260fe2cf4e9da790ee7074117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_76.asset using Guid(adf8ee3260fe2cf4e9da790ee7074117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f7e0ea9acf8b387e466475e5b513014') in 0.030107 seconds
+  Import took 0.035545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_42.asset
+  artifactKey: Guid(16a0672647abaa24a8c528118f7c1be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_42.asset using Guid(16a0672647abaa24a8c528118f7c1be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9892e3fb35e22095f464af987e1a17df') in 0.054725 seconds
+  Import took 0.062584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_64.asset
+  artifactKey: Guid(444a1bdc725d0fa4f9a6446150acaa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_64.asset using Guid(444a1bdc725d0fa4f9a6446150acaa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1464bfbd809ec9dd4db594a62eea401') in 0.027862 seconds
+  Import took 0.034206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_95.asset
+  artifactKey: Guid(f61ac4d8cc4be904b9feec9a26477606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_95.asset using Guid(f61ac4d8cc4be904b9feec9a26477606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.243402 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_95.asset in SourceAssetDB has modification time of '2021-03-01T16:51:14.5746119Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.282420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107381 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_62.asset
+  artifactKey: Guid(d5b0fbaea7a6dd54f8e4cb4d22c0d860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_62.asset using Guid(d5b0fbaea7a6dd54f8e4cb4d22c0d860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000528 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_62.asset in SourceAssetDB has modification time of '2021-03-01T16:51:06.7018789Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.012563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_57.asset
+  artifactKey: Guid(a21d5d2729c06e84d84b40698c8c15fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_57.asset using Guid(a21d5d2729c06e84d84b40698c8c15fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000507 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_57.asset in SourceAssetDB has modification time of '2021-03-01T16:51:05.4970465Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.026004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_101.asset
+  artifactKey: Guid(c155bfa272b409444b93c200bdadcaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_101.asset using Guid(c155bfa272b409444b93c200bdadcaae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000442 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_101.asset in SourceAssetDB has modification time of '2021-03-01T16:51:15.7694302Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.047004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_54.asset
+  artifactKey: Guid(6a8eaa3dccc76f649868abde5d96fa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_54.asset using Guid(6a8eaa3dccc76f649868abde5d96fa64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004540 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_54.asset in SourceAssetDB has modification time of '2021-03-01T16:51:04.925062Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.080800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002305 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_105.asset
+  artifactKey: Guid(3f872d173721f12408d80d56864ee559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_105.asset using Guid(3f872d173721f12408d80d56864ee559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.012950 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_105.asset in SourceAssetDB has modification time of '2021-03-01T16:51:17.115145Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.026293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_24.asset
+  artifactKey: Guid(afd8b701c393d094889d7ca3c84c1747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_24.asset using Guid(afd8b701c393d094889d7ca3c84c1747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007054 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_24.asset in SourceAssetDB has modification time of '2021-03-01T16:50:57.6898211Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.041619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003372 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_100.asset
+  artifactKey: Guid(9fe553819dc7a7d49853f45f30e2c778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_100.asset using Guid(9fe553819dc7a7d49853f45f30e2c778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.005116 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_100.asset in SourceAssetDB has modification time of '2021-03-01T16:51:15.5724487Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.021175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002305 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_65.asset
+  artifactKey: Guid(b643d0d56782f8744bf73ae3606dd15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_65.asset using Guid(b643d0d56782f8744bf73ae3606dd15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004227 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_65.asset in SourceAssetDB has modification time of '2021-03-01T16:51:07.4788014Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.030951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006254 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_33.asset
+  artifactKey: Guid(281e0c86ec8b2f14aa13fb9a776e042c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_33.asset using Guid(281e0c86ec8b2f14aa13fb9a776e042c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000673 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_33.asset in SourceAssetDB has modification time of '2021-03-01T16:51:00.0654669Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.017349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_0.asset
+  artifactKey: Guid(b5ff45d4f972c4547a1513bb1028f5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_0.asset using Guid(b5ff45d4f972c4547a1513bb1028f5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007836 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_0.asset in SourceAssetDB has modification time of '2021-03-01T16:50:52.1574913Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.052392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032328 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_18.asset
+  artifactKey: Guid(852652bba1813f9448896190001c0afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_18.asset using Guid(852652bba1813f9448896190001c0afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000542 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_18.asset in SourceAssetDB has modification time of '2021-03-01T16:50:56.4435829Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.010292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_90.asset
+  artifactKey: Guid(d972548c7fb433e4daf8564c66a2d5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_90.asset using Guid(d972548c7fb433e4daf8564c66a2d5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000513 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_90.asset in SourceAssetDB has modification time of '2021-03-01T16:51:13.5452639Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.199757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_47.asset
+  artifactKey: Guid(5063fd2df100c8f49b130caf7b585c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_47.asset using Guid(5063fd2df100c8f49b130caf7b585c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000670 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_47.asset in SourceAssetDB has modification time of '2021-03-01T16:51:03.4396247Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.010824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_58.asset
+  artifactKey: Guid(870ab10e63533374ebefce47a07574c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_58.asset using Guid(870ab10e63533374ebefce47a07574c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000364 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_58.asset in SourceAssetDB has modification time of '2021-03-01T16:51:05.7024996Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_98.asset
+  artifactKey: Guid(bf9c1837ce666aa4c902b319c7588161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_98.asset using Guid(bf9c1837ce666aa4c902b319c7588161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000428 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_98.asset in SourceAssetDB has modification time of '2021-03-01T16:51:15.180496Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_114.asset
+  artifactKey: Guid(d8dcace035abe1f47bbd655c9e4c6faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_114.asset using Guid(d8dcace035abe1f47bbd655c9e4c6faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000378 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_114.asset in SourceAssetDB has modification time of '2021-03-01T16:51:19.6863009Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_39.asset
+  artifactKey: Guid(22d05951009c3cf4dbc1f9cd224d279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_39.asset using Guid(22d05951009c3cf4dbc1f9cd224d279f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000509 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_39.asset in SourceAssetDB has modification time of '2021-03-01T16:51:01.4385725Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_15.asset
+  artifactKey: Guid(70f1f0e849a7cc5468eca0ed23abc585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_15.asset using Guid(70f1f0e849a7cc5468eca0ed23abc585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000443 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_15.asset in SourceAssetDB has modification time of '2021-03-01T16:50:55.3176534Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_84.asset
+  artifactKey: Guid(d7cab270b2ee4224db49be333121fbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_84.asset using Guid(d7cab270b2ee4224db49be333121fbf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000981 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_84.asset in SourceAssetDB has modification time of '2021-03-01T16:51:11.8588479Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_104.asset
+  artifactKey: Guid(29ff135cf49003243838b7c0f10745bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_104.asset using Guid(29ff135cf49003243838b7c0f10745bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000363 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_104.asset in SourceAssetDB has modification time of '2021-03-01T16:51:16.7900135Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_108.asset
+  artifactKey: Guid(3907763bbb8345642bbdaee5e45f64b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_108.asset using Guid(3907763bbb8345642bbdaee5e45f64b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000379 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_108.asset in SourceAssetDB has modification time of '2021-03-01T16:51:18.379764Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_14.asset
+  artifactKey: Guid(12591eb8679dab84f8601bb96d7d82e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_14.asset using Guid(12591eb8679dab84f8601bb96d7d82e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000489 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_14.asset in SourceAssetDB has modification time of '2021-03-01T16:50:54.9137335Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_35.asset
+  artifactKey: Guid(8bbe93595da4a8b48b0a125245c3d8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_35.asset using Guid(8bbe93595da4a8b48b0a125245c3d8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000351 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_35.asset in SourceAssetDB has modification time of '2021-03-01T16:51:00.6394427Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_107.asset
+  artifactKey: Guid(21425e0cbf312a346898aee522d833d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_107.asset using Guid(21425e0cbf312a346898aee522d833d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000488 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_107.asset in SourceAssetDB has modification time of '2021-03-01T16:51:18.1394066Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_53.asset
+  artifactKey: Guid(b93ee2bb5bc78b64aa8db2c6d6c81494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_53.asset using Guid(b93ee2bb5bc78b64aa8db2c6d6c81494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000334 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_53.asset in SourceAssetDB has modification time of '2021-03-01T16:51:04.7381522Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_49.asset
+  artifactKey: Guid(f8708901c2931d641be5fd5597c7f913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_49.asset using Guid(f8708901c2931d641be5fd5597c7f913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000564 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_49.asset in SourceAssetDB has modification time of '2021-03-01T16:51:03.941283Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.018683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002395 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_91.asset
+  artifactKey: Guid(6c3260cc459d75d429dbdc4d89db5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_91.asset using Guid(6c3260cc459d75d429dbdc4d89db5e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000475 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_91.asset in SourceAssetDB has modification time of '2021-03-01T16:51:13.8041816Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.010531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_74.asset
+  artifactKey: Guid(b5db606963a1c8844a8cfc6072e882e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_74.asset using Guid(b5db606963a1c8844a8cfc6072e882e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001921 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_74.asset in SourceAssetDB has modification time of '2021-03-01T16:51:09.2750052Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.009905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_12.asset
+  artifactKey: Guid(5ac4dc02a48a7d741bbb957b41370aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_12.asset using Guid(5ac4dc02a48a7d741bbb957b41370aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000358 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_12.asset in SourceAssetDB has modification time of '2021-03-01T16:50:54.5232714Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_32.asset
+  artifactKey: Guid(53d8b9f6f3003ef4e85ea03d03e3e259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_32.asset using Guid(53d8b9f6f3003ef4e85ea03d03e3e259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000509 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_32.asset in SourceAssetDB has modification time of '2021-03-01T16:50:59.7894421Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.025278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_3.asset
+  artifactKey: Guid(7c2d0aa39307cbc42bb6772228cd6177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_3.asset using Guid(7c2d0aa39307cbc42bb6772228cd6177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000370 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_3.asset in SourceAssetDB has modification time of '2021-03-01T16:50:52.7878197Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_7.asset
+  artifactKey: Guid(60d596964d38c4148a939e007a102764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_7.asset using Guid(60d596964d38c4148a939e007a102764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000388 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_7.asset in SourceAssetDB has modification time of '2021-03-01T16:50:53.5567705Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_43.asset
+  artifactKey: Guid(d9ffb71b06071374ba29447f414041a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_43.asset using Guid(d9ffb71b06071374ba29447f414041a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000486 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_43.asset in SourceAssetDB has modification time of '2021-03-01T16:51:02.2972756Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_5.asset
+  artifactKey: Guid(a13aeffc5c806ca469a7028f22e171cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_5.asset using Guid(a13aeffc5c806ca469a7028f22e171cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000488 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_5.asset in SourceAssetDB has modification time of '2021-03-01T16:50:53.1747858Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_10.asset
+  artifactKey: Guid(618e48474ea3e624b9b762b4d145f363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_10.asset using Guid(618e48474ea3e624b9b762b4d145f363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000362 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_10.asset in SourceAssetDB has modification time of '2021-03-01T16:50:54.1273297Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.008840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_28.asset
+  artifactKey: Guid(6620d1ef6cb688747a94f4092ee2568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_28.asset using Guid(6620d1ef6cb688747a94f4092ee2568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000524 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_28.asset in SourceAssetDB has modification time of '2021-03-01T16:50:58.4670353Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.009471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_37.asset
+  artifactKey: Guid(fdb8c34b9a807fa438ea722b98c1b278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_37.asset using Guid(fdb8c34b9a807fa438ea722b98c1b278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000463 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_37.asset in SourceAssetDB has modification time of '2021-03-01T16:51:01.0446618Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_92.asset
+  artifactKey: Guid(16983a71e5cd4fd4eb287ecc2849362e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_92.asset using Guid(16983a71e5cd4fd4eb287ecc2849362e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000491 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_92.asset in SourceAssetDB has modification time of '2021-03-01T16:51:13.9936754Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_103.asset
+  artifactKey: Guid(3670a81d931462b4da2072ed6961510b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_103.asset using Guid(3670a81d931462b4da2072ed6961510b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000602 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_103.asset in SourceAssetDB has modification time of '2021-03-01T16:51:16.502761Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_85.asset
+  artifactKey: Guid(8f0b65e8649b7d94c81254994945c631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_85.asset using Guid(8f0b65e8649b7d94c81254994945c631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000466 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_85.asset in SourceAssetDB has modification time of '2021-03-01T16:51:12.0463468Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_46.asset
+  artifactKey: Guid(de9c96cdb755e2f4eb5a9a2a2c5d0553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_46.asset using Guid(de9c96cdb755e2f4eb5a9a2a2c5d0553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000657 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_46.asset in SourceAssetDB has modification time of '2021-03-01T16:51:03.1743515Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_17.asset
+  artifactKey: Guid(2875a7c12ed7e0d4ea422dbb07ae1b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_17.asset using Guid(2875a7c12ed7e0d4ea422dbb07ae1b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000350 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_17.asset in SourceAssetDB has modification time of '2021-03-01T16:50:56.0880068Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_26.asset
+  artifactKey: Guid(d91cbda283f7b914284245bb4a237b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_26.asset using Guid(d91cbda283f7b914284245bb4a237b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000346 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_26.asset in SourceAssetDB has modification time of '2021-03-01T16:50:58.0725832Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_2.asset
+  artifactKey: Guid(9b4044aec4da83d488e4f3196fcb49a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_2.asset using Guid(9b4044aec4da83d488e4f3196fcb49a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000366 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_2.asset in SourceAssetDB has modification time of '2021-03-01T16:50:52.5723961Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_72.asset
+  artifactKey: Guid(f1f73fac9876f5349bdc19aae47d15eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_72.asset using Guid(f1f73fac9876f5349bdc19aae47d15eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000375 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_72.asset in SourceAssetDB has modification time of '2021-03-01T16:51:08.8940245Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_83.asset
+  artifactKey: Guid(96ba706c80574774087611bd63f31e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_83.asset using Guid(96ba706c80574774087611bd63f31e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000632 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_83.asset in SourceAssetDB has modification time of '2021-03-01T16:51:11.6643532Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_88.asset
+  artifactKey: Guid(65e2dfa16c98efc4b8094a50a49bf9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_88.asset using Guid(65e2dfa16c98efc4b8094a50a49bf9fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000419 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_88.asset in SourceAssetDB has modification time of '2021-03-01T16:51:12.9033698Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_22.asset
+  artifactKey: Guid(82b3c33ea46d2774eb58977147971560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_22.asset using Guid(82b3c33ea46d2774eb58977147971560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000367 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_22.asset in SourceAssetDB has modification time of '2021-03-01T16:50:57.2988047Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_94.asset
+  artifactKey: Guid(c036fd4ac7c288d48ba8433fa211a3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_94.asset using Guid(c036fd4ac7c288d48ba8433fa211a3e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000369 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_94.asset in SourceAssetDB has modification time of '2021-03-01T16:51:14.3880972Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_102.asset
+  artifactKey: Guid(a9f42620e20a4024b9da3ac33e12a08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_102.asset using Guid(a9f42620e20a4024b9da3ac33e12a08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000368 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_102.asset in SourceAssetDB has modification time of '2021-03-01T16:51:16.1098123Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_87.asset
+  artifactKey: Guid(29c6d31eaaff6a3489b6695d813b27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_87.asset using Guid(29c6d31eaaff6a3489b6695d813b27fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001582 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_87.asset in SourceAssetDB has modification time of '2021-03-01T16:51:12.5370348Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.008356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_69.asset
+  artifactKey: Guid(ee50cbfde475fb84f930dff5e1eaa45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_69.asset using Guid(ee50cbfde475fb84f930dff5e1eaa45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000357 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_69.asset in SourceAssetDB has modification time of '2021-03-01T16:51:08.2806645Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.012314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001060 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_80.asset
+  artifactKey: Guid(18cfa297d1de4d44d8db380e2f3c8eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_80.asset using Guid(18cfa297d1de4d44d8db380e2f3c8eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000543 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_80.asset in SourceAssetDB has modification time of '2021-03-01T16:51:10.9848357Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_13.asset
+  artifactKey: Guid(b5c0f3dd93e445e408f16ff4d9683d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_13.asset using Guid(b5c0f3dd93e445e408f16ff4d9683d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000354 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_13.asset in SourceAssetDB has modification time of '2021-03-01T16:50:54.7207442Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_93.asset
+  artifactKey: Guid(0183997b0d4d0834dbd9e73bb5fc467e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_93.asset using Guid(0183997b0d4d0834dbd9e73bb5fc467e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000387 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_93.asset in SourceAssetDB has modification time of '2021-03-01T16:51:14.1831134Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_20.asset
+  artifactKey: Guid(99fe3188d5f5bad4d88eae9a7c996934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_20.asset using Guid(99fe3188d5f5bad4d88eae9a7c996934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000353 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_20.asset in SourceAssetDB has modification time of '2021-03-01T16:50:56.9158282Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_45.asset
+  artifactKey: Guid(59632d5fdcbdb9b48bdf5b3cbdc2073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_45.asset using Guid(59632d5fdcbdb9b48bdf5b3cbdc2073c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000420 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_45.asset in SourceAssetDB has modification time of '2021-03-01T16:51:02.9066475Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_25.asset
+  artifactKey: Guid(7c05e85cdeebc6645836d1bc3dd549f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_25.asset using Guid(7c05e85cdeebc6645836d1bc3dd549f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000328 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_25.asset in SourceAssetDB has modification time of '2021-03-01T16:50:57.8810783Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_52.asset
+  artifactKey: Guid(c95851d6c69cd4349a29c130e7bd8c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_52.asset using Guid(c95851d6c69cd4349a29c130e7bd8c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000355 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_52.asset in SourceAssetDB has modification time of '2021-03-01T16:51:04.5516508Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_48.asset
+  artifactKey: Guid(2418afd988710d04bacd5c543aeaf7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_48.asset using Guid(2418afd988710d04bacd5c543aeaf7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000337 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_48.asset in SourceAssetDB has modification time of '2021-03-01T16:51:03.6779872Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_77.asset
+  artifactKey: Guid(cd7e8ab9254ab394cab35656592c471d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_77.asset using Guid(cd7e8ab9254ab394cab35656592c471d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000388 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_77.asset in SourceAssetDB has modification time of '2021-03-01T16:51:10.0853472Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_61.asset
+  artifactKey: Guid(ae37895f42e064b4e9be14abb63ae01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_61.asset using Guid(ae37895f42e064b4e9be14abb63ae01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000442 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_61.asset in SourceAssetDB has modification time of '2021-03-01T16:51:06.4086261Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_21.asset
+  artifactKey: Guid(de919812a7d37124f8fb98cf11117d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_21.asset using Guid(de919812a7d37124f8fb98cf11117d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000349 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_21.asset in SourceAssetDB has modification time of '2021-03-01T16:50:57.1033271Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_36.asset
+  artifactKey: Guid(f1797a2fec0a32848821faa4aae932ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_36.asset using Guid(f1797a2fec0a32848821faa4aae932ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000428 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_36.asset in SourceAssetDB has modification time of '2021-03-01T16:51:00.8444088Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_75.asset
+  artifactKey: Guid(d8eff35c90da7fa429a8ae0e5edea735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_75.asset using Guid(d8eff35c90da7fa429a8ae0e5edea735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000484 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_75.asset in SourceAssetDB has modification time of '2021-03-01T16:51:09.4809719Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_30.asset
+  artifactKey: Guid(8897c8319027fac4b9c2328a4d2b1d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_30.asset using Guid(8897c8319027fac4b9c2328a4d2b1d56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000592 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_30.asset in SourceAssetDB has modification time of '2021-03-01T16:50:58.8829229Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_34.asset
+  artifactKey: Guid(9a0ca0ff768941b49be179cc8e2e9ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_34.asset using Guid(9a0ca0ff768941b49be179cc8e2e9ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000346 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_34.asset in SourceAssetDB has modification time of '2021-03-01T16:51:00.3554643Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_113.asset
+  artifactKey: Guid(75e93720a9505094e8b0dd49c24abf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_113.asset using Guid(75e93720a9505094e8b0dd49c24abf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001003 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_113.asset in SourceAssetDB has modification time of '2021-03-01T16:51:19.3960767Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_23.asset
+  artifactKey: Guid(87645b765f99b8e439d5d61f4a36f50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_23.asset using Guid(87645b765f99b8e439d5d61f4a36f50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000304 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_23.asset in SourceAssetDB has modification time of '2021-03-01T16:50:57.4903232Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_56.asset
+  artifactKey: Guid(227d1d78825c8a34d921649ee4cd97e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_56.asset using Guid(227d1d78825c8a34d921649ee4cd97e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000324 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_56.asset in SourceAssetDB has modification time of '2021-03-01T16:51:05.3110351Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_82.asset
+  artifactKey: Guid(2f0a7d665729105468ece45bea9ac963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_82.asset using Guid(2f0a7d665729105468ece45bea9ac963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000495 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_82.asset in SourceAssetDB has modification time of '2021-03-01T16:51:11.4472606Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_60.asset
+  artifactKey: Guid(f99f4d6c8dfe10e46942b67cee0d2c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_60.asset using Guid(f99f4d6c8dfe10e46942b67cee0d2c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000347 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_60.asset in SourceAssetDB has modification time of '2021-03-01T16:51:06.1722417Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_78.asset
+  artifactKey: Guid(a76a9fa147afcc94bb1971aeb68624a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_78.asset using Guid(a76a9fa147afcc94bb1971aeb68624a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000439 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_78.asset in SourceAssetDB has modification time of '2021-03-01T16:51:10.4808703Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_6.asset
+  artifactKey: Guid(c6818579526a9de49aeca579d1b3ad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_6.asset using Guid(c6818579526a9de49aeca579d1b3ad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000580 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_6.asset in SourceAssetDB has modification time of '2021-03-01T16:50:53.3652769Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_109.asset
+  artifactKey: Guid(4e8b7d75b1ad4544db4652a28ecc3ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_109.asset using Guid(4e8b7d75b1ad4544db4652a28ecc3ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000653 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_109.asset in SourceAssetDB has modification time of '2021-03-01T16:51:18.5961843Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_106.asset
+  artifactKey: Guid(8b1d6edd84fd26b49939688b85126977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_106.asset using Guid(8b1d6edd84fd26b49939688b85126977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000356 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_106.asset in SourceAssetDB has modification time of '2021-03-01T16:51:17.7514438Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_9.asset
+  artifactKey: Guid(08757155aaf0e7046a38cdc95254481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_9.asset using Guid(08757155aaf0e7046a38cdc95254481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000385 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_9.asset in SourceAssetDB has modification time of '2021-03-01T16:50:53.9458439Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_112.asset
+  artifactKey: Guid(07104c3ce19bb1042a778a03de2738a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_112.asset using Guid(07104c3ce19bb1042a778a03de2738a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000361 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_112.asset in SourceAssetDB has modification time of '2021-03-01T16:51:19.2015973Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.007676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_79.asset
+  artifactKey: Guid(49e6c809a528cb64f87b10969f3b8446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_79.asset using Guid(49e6c809a528cb64f87b10969f3b8446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001677 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_79.asset in SourceAssetDB has modification time of '2021-03-01T16:51:10.7328426Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.008526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_4.asset
+  artifactKey: Guid(0b79bfa66c3d1c2459f5349b033868eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_4.asset using Guid(0b79bfa66c3d1c2459f5349b033868eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000388 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_4.asset in SourceAssetDB has modification time of '2021-03-01T16:50:52.9842949Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_41.asset
+  artifactKey: Guid(50d20ad18c2ea834295c28bbbc4c02d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_41.asset using Guid(50d20ad18c2ea834295c28bbbc4c02d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000405 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_41.asset in SourceAssetDB has modification time of '2021-03-01T16:51:01.8823856Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.011073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_67.asset
+  artifactKey: Guid(51e269e7491d95b44970cd0af6ba5f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_67.asset using Guid(51e269e7491d95b44970cd0af6ba5f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000508 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_67.asset in SourceAssetDB has modification time of '2021-03-01T16:51:07.8767373Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_89.asset
+  artifactKey: Guid(bcea85b65ece4c94a9f5597fd6549634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_89.asset using Guid(bcea85b65ece4c94a9f5597fd6549634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000503 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_89.asset in SourceAssetDB has modification time of '2021-03-01T16:51:13.2402837Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_97.asset
+  artifactKey: Guid(7647c740d359f7c41bf2a0df95b8f881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_97.asset using Guid(7647c740d359f7c41bf2a0df95b8f881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000378 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_97.asset in SourceAssetDB has modification time of '2021-03-01T16:51:14.9820275Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_63.asset
+  artifactKey: Guid(1dd3301b9624be540b75f41be1cada99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_63.asset using Guid(1dd3301b9624be540b75f41be1cada99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000344 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_63.asset in SourceAssetDB has modification time of '2021-03-01T16:51:06.9851217Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_96.asset
+  artifactKey: Guid(6353887fd78bb7249b5c145d1bf38a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_96.asset using Guid(6353887fd78bb7249b5c145d1bf38a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000413 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_96.asset in SourceAssetDB has modification time of '2021-03-01T16:51:14.7695956Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.005072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_86.asset
+  artifactKey: Guid(0200c13723c41c243a234ff6b9750837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_86.asset using Guid(0200c13723c41c243a234ff6b9750837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000458 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_86.asset in SourceAssetDB has modification time of '2021-03-01T16:51:12.2547892Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_66.asset
+  artifactKey: Guid(34cd076bed6109546a0b2e42f70387e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_66.asset using Guid(34cd076bed6109546a0b2e42f70387e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000423 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_66.asset in SourceAssetDB has modification time of '2021-03-01T16:51:07.6822576Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_1.asset
+  artifactKey: Guid(ea5daee027d690a49b06f49970a0d3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_1.asset using Guid(ea5daee027d690a49b06f49970a0d3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000396 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_1.asset in SourceAssetDB has modification time of '2021-03-01T16:50:52.385389Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_29.asset
+  artifactKey: Guid(632f98c6dcff990458129012a920f125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_29.asset using Guid(632f98c6dcff990458129012a920f125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000373 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_29.asset in SourceAssetDB has modification time of '2021-03-01T16:50:58.6884437Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_27.asset
+  artifactKey: Guid(dc87920505e2ee44d936a9a2b98ef95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_27.asset using Guid(dc87920505e2ee44d936a9a2b98ef95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000372 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_27.asset in SourceAssetDB has modification time of '2021-03-01T16:50:58.2755476Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.004853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_8.asset
+  artifactKey: Guid(23fd49bc86a553f41bc82bb430b0f090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_8.asset using Guid(23fd49bc86a553f41bc82bb430b0f090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000634 seconds
+  ERROR: Build asset version error: assets/sprites/tiles/tiles/tileset-pokemon_dawn_8.asset in SourceAssetDB has modification time of '2021-03-01T16:50:53.7462601Z' while content on disk has modification time of '0001-01-01T00:00:00Z'
+  Import took 0.006482 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.1 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2820.
+Total: 2.665300 ms (FindLiveObjects: 0.229600 ms CreateObjectMapping: 0.112500 ms MarkObjects: 2.101600 ms  DeleteObjects: 0.220300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.547 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.1 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2823.
+Total: 2.498400 ms (FindLiveObjects: 0.227300 ms CreateObjectMapping: 0.157000 ms MarkObjects: 2.007400 ms  DeleteObjects: 0.105500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002858 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.1 MB.
+System memory in use after: 122.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2826.
+Total: 2.915000 ms (FindLiveObjects: 0.370500 ms CreateObjectMapping: 0.120000 ms MarkObjects: 2.310600 ms  DeleteObjects: 0.112500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.082352 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_3.asset
+  artifactKey: Guid(7c2d0aa39307cbc42bb6772228cd6177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_3.asset using Guid(7c2d0aa39307cbc42bb6772228cd6177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9181c5fdabf5585bb956920b19b0566') in 0.031334 seconds
+  Import took 0.036546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_7.asset
+  artifactKey: Guid(60d596964d38c4148a939e007a102764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_7.asset using Guid(60d596964d38c4148a939e007a102764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f30950fbd25171626699d0a9eff91f') in 0.012326 seconds
+  Import took 0.018320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_5.asset
+  artifactKey: Guid(a13aeffc5c806ca469a7028f22e171cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_5.asset using Guid(a13aeffc5c806ca469a7028f22e171cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6bebeff2a683041e9974dab8398022') in 0.011167 seconds
+  Import took 0.016106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_2.asset
+  artifactKey: Guid(9b4044aec4da83d488e4f3196fcb49a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_2.asset using Guid(9b4044aec4da83d488e4f3196fcb49a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edf92417cae11119b12a738f764cb4b') in 0.012180 seconds
+  Import took 0.020115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_6.asset
+  artifactKey: Guid(c6818579526a9de49aeca579d1b3ad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_6.asset using Guid(c6818579526a9de49aeca579d1b3ad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04775ec6a664850c593cef236a411961') in 0.011377 seconds
+  Import took 0.017205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_1.asset
+  artifactKey: Guid(ea5daee027d690a49b06f49970a0d3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_1.asset using Guid(ea5daee027d690a49b06f49970a0d3f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f83a8eb1050db756e014cf335c7a17') in 0.010356 seconds
+  Import took 0.016204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_8.asset
+  artifactKey: Guid(23fd49bc86a553f41bc82bb430b0f090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/TIles/Tiles/tileset-pokemon_dawn_8.asset using Guid(23fd49bc86a553f41bc82bb430b0f090) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244c9c86130aeff0ef329b0ca3fc9565') in 0.010557 seconds
+  Import took 0.015642 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003486 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.1 MB.
+System memory in use after: 122.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2829.
+Total: 2.238000 ms (FindLiveObjects: 0.240500 ms CreateObjectMapping: 0.124300 ms MarkObjects: 1.765500 ms  DeleteObjects: 0.106700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 588.135043 seconds.
+  path: Assets/Scripts/Character.cs
+  artifactKey: Guid(3ed8d9c02e3f6994ba0ef2abcb8b74d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character.cs using Guid(3ed8d9c02e3f6994ba0ef2abcb8b74d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0801aeafcc06385634f206fc90bb71f') in 0.096346 seconds
+  Import took 0.180918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.121456 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(0dbf37bb0afa9974480ab9104596b7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(0dbf37bb0afa9974480ab9104596b7d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a07ad0c8c349046c0ca0f9a20d30f5') in 5.456111 seconds
+  Import took 18.808219 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.1 MB.
+System memory in use after: 122.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2832.
+Total: 2.689900 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.117700 ms MarkObjects: 2.205700 ms  DeleteObjects: 0.116400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017749 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2835.
+Total: 3.528800 ms (FindLiveObjects: 0.237100 ms CreateObjectMapping: 0.212100 ms MarkObjects: 2.960200 ms  DeleteObjects: 0.117900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003098 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.088 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2838.
+Total: 2.890400 ms (FindLiveObjects: 0.258500 ms CreateObjectMapping: 0.117600 ms MarkObjects: 2.382500 ms  DeleteObjects: 0.130500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2841.
+Total: 2.767900 ms (FindLiveObjects: 0.394900 ms CreateObjectMapping: 0.168300 ms MarkObjects: 2.089800 ms  DeleteObjects: 0.113600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016769 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2844.
+Total: 2.282900 ms (FindLiveObjects: 0.251800 ms CreateObjectMapping: 0.117500 ms MarkObjects: 1.768800 ms  DeleteObjects: 0.143800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1632.249425 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540c1fb6f78c3d888942438cae03e881') in 0.125216 seconds
+  Import took 0.139022 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.1 MB.
+System memory in use after: 122.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 2.247000 ms (FindLiveObjects: 0.252900 ms CreateObjectMapping: 0.120900 ms MarkObjects: 1.763000 ms  DeleteObjects: 0.109300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003410 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2850.
+Total: 3.458500 ms (FindLiveObjects: 0.303700 ms CreateObjectMapping: 0.175000 ms MarkObjects: 2.832900 ms  DeleteObjects: 0.145100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2853.
+Total: 2.425500 ms (FindLiveObjects: 0.257500 ms CreateObjectMapping: 0.118200 ms MarkObjects: 1.940400 ms  DeleteObjects: 0.108300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002944 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2856.
+Total: 3.003500 ms (FindLiveObjects: 0.510000 ms CreateObjectMapping: 0.152500 ms MarkObjects: 2.224000 ms  DeleteObjects: 0.115800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2859.
+Total: 4.217200 ms (FindLiveObjects: 0.364200 ms CreateObjectMapping: 0.205900 ms MarkObjects: 3.525200 ms  DeleteObjects: 0.119800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.892 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2862.
+Total: 2.909400 ms (FindLiveObjects: 0.258400 ms CreateObjectMapping: 0.117000 ms MarkObjects: 2.396800 ms  DeleteObjects: 0.135300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 123.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2865.
+Total: 4.039700 ms (FindLiveObjects: 0.282200 ms CreateObjectMapping: 0.142200 ms MarkObjects: 3.383900 ms  DeleteObjects: 0.229900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003883 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.645 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2868.
+Total: 2.209400 ms (FindLiveObjects: 0.248700 ms CreateObjectMapping: 0.107400 ms MarkObjects: 1.742300 ms  DeleteObjects: 0.109900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.835 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2871.
+Total: 2.688600 ms (FindLiveObjects: 0.267700 ms CreateObjectMapping: 0.114700 ms MarkObjects: 2.156100 ms  DeleteObjects: 0.148100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002872 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.801 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2874.
+Total: 8.426300 ms (FindLiveObjects: 0.568400 ms CreateObjectMapping: 0.252400 ms MarkObjects: 6.642200 ms  DeleteObjects: 0.961400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.574 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.2 MB.
+System memory in use after: 122.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2877.
+Total: 3.198100 ms (FindLiveObjects: 0.293300 ms CreateObjectMapping: 0.125400 ms MarkObjects: 2.656900 ms  DeleteObjects: 0.121000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2880.
+Total: 2.892300 ms (FindLiveObjects: 0.351000 ms CreateObjectMapping: 0.223400 ms MarkObjects: 2.198000 ms  DeleteObjects: 0.118200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.230 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2883.
+Total: 5.970100 ms (FindLiveObjects: 0.548100 ms CreateObjectMapping: 0.135400 ms MarkObjects: 5.142100 ms  DeleteObjects: 0.141600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.427 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2886.
+Total: 2.360200 ms (FindLiveObjects: 0.249100 ms CreateObjectMapping: 0.118500 ms MarkObjects: 1.873500 ms  DeleteObjects: 0.118400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003212 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.082 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2889.
+Total: 2.722300 ms (FindLiveObjects: 0.285400 ms CreateObjectMapping: 0.120600 ms MarkObjects: 2.194300 ms  DeleteObjects: 0.120300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2892.
+Total: 2.583200 ms (FindLiveObjects: 0.251500 ms CreateObjectMapping: 0.126000 ms MarkObjects: 2.016200 ms  DeleteObjects: 0.188700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003379 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2895.
+Total: 21.272300 ms (FindLiveObjects: 11.622600 ms CreateObjectMapping: 0.202700 ms MarkObjects: 9.081500 ms  DeleteObjects: 0.363600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005435 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2898.
+Total: 2.393600 ms (FindLiveObjects: 0.265900 ms CreateObjectMapping: 0.114500 ms MarkObjects: 1.896300 ms  DeleteObjects: 0.114600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1290.284740 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c69dbcfdf3472c6839c15ea85c3105') in 0.037355 seconds
+  Import took 0.046524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 415.643152 seconds.
+  path: Assets/Animation/Player_idle_left.anim
+  artifactKey: Guid(ebc73926a5302c24582561b9679318e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_idle_left.anim using Guid(ebc73926a5302c24582561b9679318e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0325a329c37e30a910937e3b16e3896b') in 0.024417 seconds
+  Import took 0.032314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.929260 seconds.
+  path: Assets/Animation/Player_idle_right.anim
+  artifactKey: Guid(b640fe625eed32b45a41a7cb104ed265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_idle_right.anim using Guid(b640fe625eed32b45a41a7cb104ed265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3134bafefbcdbe9ddd07f0a1884777c') in 0.014319 seconds
+  Import took 0.019838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001936 seconds.
+  path: Assets/Animation/Player_idle_right.anim
+  artifactKey: Guid(b640fe625eed32b45a41a7cb104ed265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_idle_right.anim using Guid(b640fe625eed32b45a41a7cb104ed265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3134bafefbcdbe9ddd07f0a1884777c') in 0.007744 seconds
+  Import took 0.018264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.632013 seconds.
+  path: Assets/Animation/Player_walk_L.anim
+  artifactKey: Guid(5d3ade333294a1e4494951da9c29026d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_walk_L.anim using Guid(5d3ade333294a1e4494951da9c29026d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8588358f79da83a338499db5709585') in 0.016657 seconds
+  Import took 0.034108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.725648 seconds.
+  path: Assets/Animation/Player_walk_R.anim
+  artifactKey: Guid(c70638c8b0ad9024c9f9e6b6cc82cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_walk_R.anim using Guid(c70638c8b0ad9024c9f9e6b6cc82cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6998d988ad40ae9ccf97378d45a801d1') in 0.014735 seconds
+  Import took 0.031922 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003121 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.876 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2901.
+Total: 2.775200 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.131200 ms MarkObjects: 2.252300 ms  DeleteObjects: 0.115400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2904.
+Total: 2.256900 ms (FindLiveObjects: 0.248300 ms CreateObjectMapping: 0.112200 ms MarkObjects: 1.770700 ms  DeleteObjects: 0.124700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 448.837972 seconds.
+  path: Assets/Animation/Player_run_L.anim
+  artifactKey: Guid(d03f33e391083b94bbf742665977ba6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_run_L.anim using Guid(d03f33e391083b94bbf742665977ba6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d601e18ff15dc48dac689f28770d06') in 0.038899 seconds
+  Import took 0.043824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.203424 seconds.
+  path: Assets/Animation/Player_walk.anim
+  artifactKey: Guid(46d4f939b83a8374bb7f5935a1756760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_walk.anim using Guid(46d4f939b83a8374bb7f5935a1756760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68b89133095d74340b87a5f369130a5') in 0.019003 seconds
+  Import took 0.033672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.436918 seconds.
+  path: Assets/Animation/Player_run.anim
+  artifactKey: Guid(85e6bef17b5e5f7469de26592ae30066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_run.anim using Guid(85e6bef17b5e5f7469de26592ae30066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1cff966df54dd7401ed908cb18a444') in 0.022683 seconds
+  Import took 0.031290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 475.134725 seconds.
+  path: Assets/Animation/Player_walk_up.anim
+  artifactKey: Guid(89fe85d39cd35cc47ae9aed0f0616376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_walk_up.anim using Guid(89fe85d39cd35cc47ae9aed0f0616376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c79d4b9a29a699e09bbc409e687ce23') in 0.019769 seconds
+  Import took 0.033740 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.256 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 122.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2907.
+Total: 3.905300 ms (FindLiveObjects: 0.260600 ms CreateObjectMapping: 0.117300 ms MarkObjects: 2.309200 ms  DeleteObjects: 1.217100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2910.
+Total: 2.352400 ms (FindLiveObjects: 0.326000 ms CreateObjectMapping: 0.108200 ms MarkObjects: 1.775900 ms  DeleteObjects: 0.140800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002981 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2913.
+Total: 7.526300 ms (FindLiveObjects: 0.323100 ms CreateObjectMapping: 0.136500 ms MarkObjects: 6.944500 ms  DeleteObjects: 0.120500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003049 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.434 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.2 MB.
+System memory in use after: 123.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2916.
+Total: 2.407300 ms (FindLiveObjects: 0.367200 ms CreateObjectMapping: 0.141700 ms MarkObjects: 1.778400 ms  DeleteObjects: 0.119200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 797.408718 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1978f7596dadec6f3ccc174a1b369ae') in 0.038735 seconds
+  Import took 0.046395 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.661 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2919.
+Total: 2.301500 ms (FindLiveObjects: 0.264700 ms CreateObjectMapping: 0.112700 ms MarkObjects: 1.793600 ms  DeleteObjects: 0.129200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.4 MB.
+System memory in use after: 122.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2922.
+Total: 3.468400 ms (FindLiveObjects: 0.275200 ms CreateObjectMapping: 0.121600 ms MarkObjects: 2.958300 ms  DeleteObjects: 0.112200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 2.511700 ms (FindLiveObjects: 0.274300 ms CreateObjectMapping: 0.110700 ms MarkObjects: 2.014000 ms  DeleteObjects: 0.111400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003020 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2928.
+Total: 8.106900 ms (FindLiveObjects: 1.672900 ms CreateObjectMapping: 0.208300 ms MarkObjects: 6.108500 ms  DeleteObjects: 0.115400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.526 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 3.035200 ms (FindLiveObjects: 0.313800 ms CreateObjectMapping: 0.124000 ms MarkObjects: 2.471500 ms  DeleteObjects: 0.124300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 405.763890 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f1fb6fe0a7d1292889502985d13255') in 0.027748 seconds
+  Import took 0.033381 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016107 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.065 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2934.
+Total: 3.318000 ms (FindLiveObjects: 0.266200 ms CreateObjectMapping: 0.123100 ms MarkObjects: 2.797100 ms  DeleteObjects: 0.129900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2937.
+Total: 2.496900 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.114200 ms MarkObjects: 1.974000 ms  DeleteObjects: 0.111100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.329 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2940.
+Total: 2.580000 ms (FindLiveObjects: 0.414800 ms CreateObjectMapping: 0.139000 ms MarkObjects: 1.881500 ms  DeleteObjects: 0.143700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.061 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2943.
+Total: 4.969200 ms (FindLiveObjects: 0.495600 ms CreateObjectMapping: 0.201200 ms MarkObjects: 4.156300 ms  DeleteObjects: 0.114600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.063167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.991 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2946.
+Total: 4.073400 ms (FindLiveObjects: 0.443800 ms CreateObjectMapping: 0.460300 ms MarkObjects: 3.040800 ms  DeleteObjects: 0.126800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021054 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.329 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 122.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2949.
+Total: 4.187900 ms (FindLiveObjects: 0.832400 ms CreateObjectMapping: 0.404500 ms MarkObjects: 2.830400 ms  DeleteObjects: 0.119400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1354.507563 seconds.
+  path: Assets/Animation/Player_run_up.anim
+  artifactKey: Guid(9863b8faa2b123941b5f2baedcd417b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_run_up.anim using Guid(9863b8faa2b123941b5f2baedcd417b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501b3ccf37c4621f7dfd33d1edfb7065') in 0.026484 seconds
+  Import took 0.032978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005250 seconds.
+  path: Assets/Animation/Player_run_up.anim
+  artifactKey: Guid(9863b8faa2b123941b5f2baedcd417b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player_run_up.anim using Guid(9863b8faa2b123941b5f2baedcd417b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501b3ccf37c4621f7dfd33d1edfb7065') in 0.009852 seconds
+  Import took 0.015259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.125735 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(bbe6e3c95e913f742a397d97e90d4b3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee64d62e55db37a15d495de1cc2e1bd') in 0.023723 seconds
+  Import took 0.030890 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002847 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2355 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.5 MB.
+System memory in use after: 122.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2952.
+Total: 2.905000 ms (FindLiveObjects: 0.355100 ms CreateObjectMapping: 0.115100 ms MarkObjects: 2.265800 ms  DeleteObjects: 0.168100 ms)
+
